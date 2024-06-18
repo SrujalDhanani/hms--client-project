@@ -1,0 +1,46 @@
+{
+  "headers": ["Pages", "Create", "Update", "Delete", "View"],
+  "data": [
+    {
+      "page": "Page 1",
+      "create": true,
+      "update": true,
+      "delete": true,
+      "view": true
+    },
+    {
+      "page": "Page 2",
+      "create": true,
+      "update": true,
+      "delete": true,
+      "view": true
+    },
+    {
+      "page": "Page 3",
+      "create": true,
+      "update": true,
+      "delete": true,
+      "view": true
+    },
+    {
+      "page": "Page 4",
+      "create": true,
+      "update": true,
+      "delete": true,
+      "view": true
+    },
+    {
+      "page": "Page 5",
+      "create": true,
+      "update": true,
+      "delete": true,
+      "view": true
+    }
+  ],
+  "columnCheckboxes": [{
+    "create": true,
+    "update": true,
+    "delete": true,
+    "view": true
+  }]
+}

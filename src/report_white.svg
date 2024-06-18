@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>Report</title>
+	<defs>
+		<image  width="14" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAAAAXNSR0IB2cksfwAAAHtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////0GAZzgAAACl0Uk5TDfr/NwAYSJlgZ/gkJtquuseWQGjnzt17IFTu92kORd/vRi9VRDAxLiIN6ibQAAAAbUlEQVR4nE3NaxNDMBCF4YhF0KLEpdW6F///F3LEzuT99syemRXCkXcuEQmPJX3DQKkwAuMH+EyS9Lpm0jv5ylHB1CWqmHWD3szog1rm94c6JtL9YHOcZpvWX24B6b+atn0AiZb+qpWGLs8dcQDKrQlhHeJjUQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Report (1)" href="#img1" x="1" y="0"/>
+</svg>

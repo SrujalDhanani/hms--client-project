@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>money</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAANVQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////fPoPwAAAAEd0Uk5TAA6D6fvLUsr/9KVdW2Ih4uoElnlI8CWU8TKMQWgk29qO0y1guygvFgGQzv7IQANfYYCTPvjsZh/gfGQgOtTdJ+tj7n8IERDOZH1UAAAAmUlEQVR4nFWN1xbBUBBFBwlHC8IlQUQXoneit///JCnryrWfZvZZM4fIJxKNSXKcQhJIpoD0b88AWSWHfIELFSiWGFDmogJoehVQuKgBdaMBM3zahNQCaws1na6sGv7U6w+ILCEChvrIHk9cpkSzuScWCFjSChoXa8Y2290eBy6OjuOczrhY4glgX+lP3O5uywPP1zvg47V/AcWVERMkMLQaAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
